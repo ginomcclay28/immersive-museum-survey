@@ -1,0 +1,562 @@
+[
+  {
+    "index": 1,
+    "work": "teamLab Borderless Azabudai Hills",
+    "file": "assets/01-teamlab-borderless.jpg",
+    "source": "https://www.teamlab.art/e/tokyo/",
+    "source_title": "teamLab Borderless Azabudai Hills",
+    "url": "https://assets.team-lab.com/b5EBo9Uo-OK6SM09ZTkEZQ/Yt5eET5oZzm6FBicauQUSY/width=2560,format=jpeg",
+    "sha256": "da3c9c459cec032762ee8f1030b28bec5d66c3c78ee645c1d1e9f01a9f6920f2",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://www.teamlab.art/e/tokyo/",
+      "https://www.azabudai-hills.com/en/azabudaihillsgallery/teamlab-borderless/"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 2,
+    "work": "teamLab Planets Tokyo",
+    "file": "assets/02-teamlab-planets.jpg",
+    "source": "https://www.teamlab.art/e/planets/",
+    "source_title": "teamLab Planets Tokyo",
+    "url": "https://assets.team-lab.com/b5EBo9Uo-OK6SM09ZTkEZQ/89JNH3JuCgHZcGbACeD2vU/width=2560,format=jpeg",
+    "sha256": "a56485f45185b7b8def2c57d0b87feabedf9c96a29e17dc85c10078feaf46d10",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://www.teamlab.art/e/planets/",
+      "https://www.gotokyo.org/en/spot/1742/index.html"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 3,
+    "work": "teamLab Botanical Garden Osaka",
+    "file": "assets/03-teamlab-botanical-osaka.jpg",
+    "source": "https://www.teamlab.art/e/botanicalgarden/",
+    "source_title": "teamLab Botanical Garden Osaka",
+    "url": "https://assets.team-lab.com/b5EBo9Uo-OK6SM09ZTkEZQ/9cf18fad-ce15-4688-c57a-4c886f573f00/width=2560,format=jpeg",
+    "sha256": "b7971b170e83ae5d7738194dc38ec7bcbde1c7a1caba855fb229844780238391",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://www.teamlab.art/e/botanicalgarden/",
+      "https://www.nagai-park.jp/teamlab-botanical-garden/"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 4,
+    "work": "teamLab SuperNature Macao",
+    "file": "assets/04-teamlab-supernature-macao.jpg",
+    "source": "https://www.teamlab.art/e/macao/",
+    "source_title": "teamLab SuperNature Macao",
+    "url": "https://image.team-lab.cn/unsafe/w:2560/plain/s3%3A%2F%2Fimagewave-sites-prd-imageproxy-bucket%2FbLiVDKcWwFSUGbBggaqkS7@jpeg",
+    "sha256": "d806e031136cc337df8ddc68ab4e054b52913e605423f32154074623af6b3396",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://www.teamlab.art/e/macao/",
+      "https://www.venetianmacao.com/entertainment/teamlab.html"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 5,
+    "work": "teamLab Massless Beijing",
+    "file": "assets/05-teamlab-massless-beijing.jpg",
+    "source": "https://art.team-lab.cn/en/e/masslessbeijing/",
+    "source_title": "teamLab Massless Beijing",
+    "url": "https://image.team-lab.cn/unsafe/w:2048/q:80/plain/s3%3A%2F%2Fimagewave-sites-prd-imageproxy-bucket%2FWFDkjwfMqARpxC274yReM3@webp",
+    "sha256": "1415b059bf9df3c3a5eb701ae4b857a98b29c2fdd5542fcc051d7c305f9a4d6b",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://art.team-lab.cn/en/e/masslessbeijing/",
+      "https://www.pacegallery.com/exhibitions/teamlab-massless-beijing/"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 6,
+    "work": "teamLab Phenomena Abu Dhabi",
+    "file": "assets/06-teamlab-phenomena-abu-dhabi.jpg",
+    "source": "https://www.teamlab.art/e/phenomena/",
+    "source_title": "teamLab Phenomena Abu Dhabi",
+    "url": "https://assets.team-lab.com/b5EBo9Uo-OK6SM09ZTkEZQ/HiqXiXDiD2vet9xLPjJgYT/width=3840",
+    "sha256": "c2145705de099ad3349b3eb9ca5bf02e9a384b617407b3c1b8bf013d95bd66ca",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://www.teamlababudhabi.com/en/explore/artworks",
+      "https://art.team-lab.cn/en/e/phenomena/"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 7,
+    "work": "ARTE MUSEUM Jeju immersive",
+    "file": "assets/07-arte-museum-jeju.jpg",
+    "source": "https://www.dstrict.com/ART/?bmode=view&idx=8004858",
+    "source_title": "ARTE MUSEUM Jeju immersive",
+    "url": "https://www.youtube.com/watch?v=b6cL29c5RUM",
+    "sha256": "5042e31d3a40fc2597f07aacd150bfa1e8d82329ef72a71ca1ab843f7d80776f",
+    "mime": "image/jpeg",
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 8,
+    "work": "ARTE MUSEUM Gangneung immersive",
+    "file": "assets/08-arte-museum-gangneung.jpg",
+    "source": "https://www.dstrict.com/ART/?bmode=view&idx=15344076",
+    "source_title": "ARTE MUSEUM Gangneung immersive",
+    "url": "https://www.youtube.com/watch?v=SIInoUZnDc8",
+    "sha256": "af31c7ab87f81ffe3b3250b83552ac2e86355c78670851088fe6ddae7262a05d",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://www.artemuseum.com/GANGNEUNG",
+      "https://www.gn.go.kr/eng/sub06_03_01_08.do",
+      "https://www.klook.com/ko/activity/67029-arte-museum-gangneung-admission/"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 9,
+    "work": "Atelier des Lumières Paris interior",
+    "file": "assets/09-atelier-des-lumieres.webp",
+    "source": "https://www.atelier-lumieres.com/en",
+    "source_title": "Atelier des Lumières Paris interior",
+    "url": "https://www.atelier-lumieres.com/sites/default/files/inline-images/van%20gogh%20atelier.JPG",
+    "sha256": "edfbfcc2b1016958751e1bfda4546c7aa65a3fd9dd15f25c05b6650f0f2091ce",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://www.atelier-lumieres.com/en",
+      "https://www.culturespaces.com/en/sites/atelier-des-lumieres"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 10,
+    "work": "Bassins des Lumières Bordeaux interior",
+    "file": "assets/10-bassins-des-lumieres.webp",
+    "source": "https://www.bassins-lumieres.com/en",
+    "source_title": "Bassins des Lumières Bordeaux interior",
+    "url": "https://www.bassins-lumieres.com/sites/default/files/2026-01/frida_kahlo_en_plein_coeur-81823-1600px_1.jpg",
+    "sha256": "2e939b6657f20be67f799f6e651a4e53dd81953c7464ac3dcefd1e53bc86f1bf",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://www.bassins-lumieres.com/en",
+      "https://www.culturespaces.com/en/sites/bassins-des-lumieres"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 11,
+    "work": "Carrières des Lumières exhibition",
+    "file": "assets/11-carrieres-des-lumieres.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Carri%C3%A8res_de_Lumi%C3%A8res_(52132654327).jpg",
+    "source_title": "Carrières des Lumières exhibition",
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Carri%C3%A8res%20de%20Lumi%C3%A8res%20(52132654327).jpg",
+    "sha256": "8bac5b3091616bb173afd3f0b5b284755273c6604fd3456920eb678a2c834b1f",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://www.carrieres-lumieres.com/en",
+      "https://www.culturespaces.com/en/sites/carrieres-des-lumieres"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 12,
+    "work": "Fabrique des Lumières Amsterdam interior",
+    "file": "assets/12-fabrique-des-lumieres.webp",
+    "source": "https://www.fabrique-lumieres.com/en",
+    "source_title": "Fabrique des Lumières Amsterdam interior",
+    "url": "https://www.fabrique-lumieres.com/sites/default/files/2026-06/klimt_fabrique_des_lumieres_projections_immersive.jpg",
+    "sha256": "17e0e1a57ac6ea781f1e8bb318686182db91dc572a277811aa5035713e4d37b0",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://www.fabrique-lumieres.com/en",
+      "https://www.culturespaces.com/en/sites/fabrique-des-lumieres"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 13,
+    "work": "Phoenix des Lumières Dortmund",
+    "file": "assets/13-phoenix-des-lumieres.webp",
+    "source": "https://www.phoenix-lumieres.com/en",
+    "source_title": "Phoenix des Lumières Dortmund",
+    "url": "https://www.phoenix-lumieres.com/sites/default/files/2026-06/klimt4_bildnachweis_culturespaces_vincent_pinson_3_0.jpg",
+    "sha256": "a432e1e5a8f28e296d8c682d8a232237795c2e89e218bb9a2dbb209d1aff26fe",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://www.phoenix-lumieres.com/en",
+      "https://www.culturespaces.com/en/sites/phoenix-des-lumieres"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 14,
+    "work": "Hall des Lumières New York interior",
+    "file": "assets/14-hall-des-lumieres.jpg",
+    "source": "https://www.halldeslumieres.com/",
+    "source_title": "Hall des Lumières New York interior",
+    "url": "https://www.halldeslumieres.com/sites/default/files/styles/685x450/public/2025-09/_n2a5843_0.jpg.webp?itok=BdMekoZC",
+    "sha256": "1c8de18f0ea28f9ff14db7aa788a21ff41f762dc15ea471a826b835b936fca06",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://www.halldeslumieres.com/",
+      "https://www.culturespaces.com/en/sites/hall-des-lumieres"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 15,
+    "work": "Bunker des Lumières Jeju",
+    "file": "assets/15-bunker-des-lumieres.jpg",
+    "source": "https://www.deslumieres.co.kr/en/bunker",
+    "source_title": "Bunker des Lumières Jeju",
+    "url": "https://www.deslumieres.co.kr/culture/mainbanner/2026/04/08/2026040882b81e2b73134a6.jpg",
+    "sha256": "2b9871c23f8544abea268bc590d4c9d6c0f77bfb8eb0c09ba57bb0d0994699e0",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://www.deslumieres.co.kr/en/bunker",
+      "https://www.modulo-pi.com/showcase/bunker-de-lumieres/"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 16,
+    "work": "Frameless London immersive art",
+    "file": "assets/16-frameless-london.jpg",
+    "source": "https://www.visitlondon.com/things-to-do/place/49238804-frameless",
+    "source_title": "Frameless London immersive art",
+    "url": "https://w2.tickxcore.com/embed",
+    "sha256": "86af26f3af64861e950c9757d1739b4842e60941b577409e5f2fd47b8c2c4472",
+    "mime": "image/jpeg",
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 17,
+    "work": "David Hockney Bigger and Closer Lightroom London",
+    "file": "assets/17-lightroom-hockney.jpg",
+    "source": "https://www.visitlondon.com/things-to-do/place/51021303-david-hockney-bigger-and-closer",
+    "source_title": "David Hockney Bigger and Closer Lightroom London",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js?ver=3.3.1",
+    "sha256": "4f4d3d6aec1601234314cfaef8954c9f415780d86070e06d7535cadcf1cf5552",
+    "mime": "image/jpeg",
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 18,
+    "work": "Outernet London Now Building interior",
+    "file": "assets/18-outernet-london.jpg",
+    "source": "https://www.outernet.com/b2b/spaces/the-now-building",
+    "source_title": "Outernet London Now Building interior",
+    "url": "https://www.outernet.com/assets/images/b2b/spaces/gallery-image-06.jpg",
+    "sha256": "b1adc4d36fa8ef0fa01d835947043e5ea3a3cc1a1c70122ef6912c597bc09d2b",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://www.outernet.com/b2b/spaces/the-now-building",
+      "https://www.taittowers.com/work/the-now-building"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 19,
+    "work": "Meow Wolf House of Eternal Return interior",
+    "file": "assets/19-house-of-eternal-return.webp",
+    "source": "https://commons.wikimedia.org/",
+    "source_title": "Meow Wolf House of Eternal Return interior",
+    "url": "https://webassets.meowwolf.com/cdn.prod/5dad7a19f43e6f31a9e92718/672bff3a28c808a04486edd0_Screenshot%202024-11-06%20at%204.13.29%E2%80%AFPM.webp",
+    "sha256": "c2d6923a49323b2a0ee785e4290491925c13a579aeb29a4850f1346934607129",
+    "mime": "image/jpeg",
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 20,
+    "work": "Mercer Labs Museum of Art and Technology",
+    "file": "assets/20-mercer-labs.jpg",
+    "source": "https://www.mercerlabs.com/",
+    "source_title": "Mercer Labs Museum of Art and Technology",
+    "url": "https://www.mercerlabs.com/assets/videos/hero-video_har16s.mp4",
+    "sha256": "4d09370c57ca8002097212f06a0766da24163209bedd5e04d8ecf06b42149d96",
+    "mime": "image/jpeg",
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 21,
+    "work": "Meow Wolf Convergence Station interior",
+    "file": "assets/21-convergence-station.jpg",
+    "source": "https://meowwolf.com/visit/denver",
+    "source_title": "Meow Wolf Convergence Station interior",
+    "url": "https://webassets.meowwolf.com/cdn.prod/5daf07de1a61d008bdf579d8/698cd5f620637181c7b2faa3_Web_Large-DEN_MW%20Adultiverse%20St%20Patricks_BoulderMediaHouse_2025_25-013%20V1-51%20(1)%20(1).jpg",
+    "sha256": "ea7eb85f139b06cb2696969c565e5673e660ccc7a3bd13176cfb65f6f413c12f",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://meowwolf.com/visit/denver",
+      "https://www.denver.org/listing/meow-wolf-denver-%7C-convergence-station/28653/"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 22,
+    "work": "Meow Wolf The Real Unreal interior",
+    "file": "assets/22-the-real-unreal.jpg",
+    "source": "https://meowwolf.com/visit/grapevine",
+    "source_title": "Meow Wolf The Real Unreal interior",
+    "url": "https://webassets.meowwolf.com/cdn.prod/5daf07de1a61d008bdf579d8/6978fdfdf0653915c012bbc1_GVH_ExperiencePhotography_ArturoOlmos_2025-15%20(1).jpg",
+    "sha256": "6a2b188a523edbe0d88e62e5268d1458401271d597a93b6350a482b360082e3d",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://meowwolf.com/visit/grapevine",
+      "https://www.grapevinetexasusa.com/listing/meow-wolf-grapevine/4978/"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 23,
+    "work": "Otherworld Columbus immersive art",
+    "file": "assets/23-otherworld-columbus.jpg",
+    "source": "https://www.otherworld.com/",
+    "source_title": "Otherworld Columbus immersive art",
+    "url": "https://cdn.prod.website-files.com/6388d2265a4d0f677119f2a1%2F67981a40aad0ce35c68f82f1_Beat%20This%20Loop-transcode.mp4",
+    "sha256": "bbb1375301247a2ca3cacfd921d5f6420432999e66d5048ae39bda5473df526e",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://www.otherworld.com/",
+      "https://www.experiencecolumbus.com/blog/post/qa-john-umland-operations-director-at-otherworld/"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 24,
+    "work": "Superblue Miami immersive art",
+    "file": "assets/24-superblue-miami.jpg",
+    "source": "https://www.superblue.com/miami/",
+    "source_title": "Superblue Miami immersive art",
+    "url": "https://cdn.prod.website-files.com/650ba1c41a78874c2e6faac3/65b97d8df478fb81a51d553f_superblue-miami-teamlab-landing-bg.webp",
+    "sha256": "6b684b01dae216c1fb15159cbe6199085fc26c3e1d60b25ea6ad96cd49d56991",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://www.superblue.com/miami/",
+      "https://www.miamiandbeaches.com/l/arts-culture/superblue-miami/21175"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 25,
+    "work": "ARTECHOUSE DC immersive exhibition",
+    "file": "assets/25-artechouse-dc.webp",
+    "source": "https://www.artechouse.com/location/dc/",
+    "source_title": "ARTECHOUSE DC immersive exhibition",
+    "url": "https://www.artechouse.com/wp-content/uploads/2023/07/Beyond-the-Light-6-Credit-ARTECHOUSE.jpg",
+    "sha256": "d0810a8a59d5cc8c54aad05affc3435782ad6cb6327d50bdc2461dcdf7f5cf33",
+    "mime": "image/webp",
+    "verification_sources": [
+      "https://www.artechouse.com/location/dc/",
+      "https://washington.org/find-dc-listings/artechouse"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 26,
+    "work": "Illuminarium Las Vegas interior",
+    "file": "assets/26-illuminarium-las-vegas.jpg",
+    "source": "https://lasvegasthenandnow.com/review-of-illuminarium-at-area15-las-vegas-look-inside/",
+    "source_title": "Illuminarium Las Vegas interior",
+    "url": "https://illuminarium.com/haqt6iy0yx2eNjM1MDliNTA3ZmQ0NTE1ZDlmYTY1NzBl/zDK-2S20es045yFXjI0xZCi2DuA",
+    "sha256": "edc850247a9d31f12c4801093e788f36e815f398ad85849e693e9ea4ba554f95",
+    "mime": "image/jpeg",
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 27,
+    "work": "Wonderspaces Arizona installation",
+    "file": "assets/27-wonderspaces-arizona.jpg",
+    "source": "https://www.wonderspaces.com/",
+    "source_title": "Wonderspaces Arizona installation",
+    "url": "https://arizona.wonderspaces.com/assets/submergence.jpg",
+    "sha256": "eec30247aadf5a461473d3da0edc8f4ef72cc950ddf258811cad244c0963a43e",
+    "mime": "image/jpeg",
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 28,
+    "work": "WNDR Museum Chicago interior",
+    "file": "assets/28-wndr-museum.webp",
+    "source": "https://app.wndrmuseum.com/",
+    "source_title": "WNDR Museum Chicago interior",
+    "url": "https://app.wndrmuseum.com/images/Yayoi_Kusamas_LOVE_IS_CALLING_at_WNDR_Museum_Chicago.webp",
+    "sha256": "370ee4ea0b4926e9dc65c2fd084ef9431eb960d09fb1bb1c21483b628a8a5f95",
+    "mime": "image/webp",
+    "verification_sources": [
+      "https://app.wndrmuseum.com/",
+      "https://www.axios.com/local/chicago/2024/06/17/yayoi-kusama-chicago-wndr-museum"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 29,
+    "work": "Museum of Dream Space Los Angeles",
+    "file": "assets/29-museum-of-dream-space.jpg",
+    "source": "https://www.californiabychoice.com/home/museum-of-dream-space",
+    "source_title": "Museum of Dream Space Los Angeles",
+    "url": "https://images.squarespace-cdn.com/content/v1/5c81f8d10b77bd7cfa2c6904/1562824867538-XX3TMRG3O13XT2UXVMOX/IMG_9492.JPG?format=2500w",
+    "sha256": "20b313d10808fffbf1ddcee88c67c6e256a1c54819a651e3824a22ebda41bdd3",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://www.discoverlosangeles.com/things-to-do/museum-of-dream-space",
+      "https://www.californiabychoice.com/home/museum-of-dream-space",
+      "https://www.univision.com/local/los-angeles-kmex/de-paseo-por-la-en-el-museo-de-dream-space-fotos"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 30,
+    "work": "Yayoi Kusama Infinity Mirrored Room Broad",
+    "file": "assets/30-kusama-infinity-room.jpg",
+    "source": "https://www.flickr.com/photos/thomashawk/52367904827/",
+    "source_title": "Yayoi Kusama Infinity Mirrored Room Broad",
+    "url": "https://live.staticflickr.com/65535/52367904827_8cf8270464_o.jpg",
+    "sha256": "d68eb7130ba7a929b129b85a6942273b10a1991bd18e7b36eda63b887700f1d2",
+    "mime": "image/jpeg",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://hirshhorn.si.edu/kusama/infinity-rooms/",
+      "https://www.flickr.com/photos/22711505@N05/33277394365/",
+      "https://www.thebroad.org/art/yayoi-kusama/infinity-mirrored-room-souls-millions-light-years-away"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 31,
+    "work": "Yayoi Kusama Obliteration Room",
+    "file": "assets/31-obliteration-room.jpg",
+    "source": "https://www.qagoma.qld.gov.au/stories/the-obliteration-room-by-yayoi-kusama-is-transformed/",
+    "source_title": "Yayoi Kusama Obliteration Room",
+    "url": "https://cdn.sanity.io/images/m2obzhc2/production/286547eb022e35efbfd8eba3ff658dc5bbda027a-2000x1321.jpg/04-WEB-BLOG2000-Kusama-GOMA_Wonderstruck_installationview_20250626_ccallistemon_013.jpg?w=1920&h=1268&q=90&fit=max",
+    "sha256": "04ca592063ea980da23b74e448c4bc036cb28ba9e02bdec9346c6cc4ccd55ece",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://www.qagoma.qld.gov.au/stories/the-obliteration-room-by-yayoi-kusama-is-transformed/",
+      "https://collection.qagoma.qld.gov.au/index.php/objects/18336"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 32,
+    "work": "Random International Rain Room Sharjah",
+    "file": "assets/32-rain-room.jpg",
+    "source": "https://commons.wikimedia.org/",
+    "source_title": "Random International Rain Room Sharjah",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/RainRoomSharjah.jpg/1920px-RainRoomSharjah.jpg",
+    "sha256": "bd1f69e3eb6c48eda5063bc593f83cd5bdb8880f5234e58827fe5d465732ec9a",
+    "mime": "image/jpeg",
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 33,
+    "work": "Deep Space 8K Ars Electronica Center",
+    "file": "assets/33-deep-space-8k.jpg",
+    "source": "https://ars.electronica.art/center/en/deep-space-8k/",
+    "source_title": "Deep Space 8K Ars Electronica Center",
+    "url": "https://www.youtube.com/watch?v=fe1eqKsIL-U",
+    "sha256": "128c00ef5351fda5a6f74ecbb7468f3e34073a18c6b16b14474d93ead409d8f0",
+    "mime": "image/jpeg",
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 34,
+    "work": "Nxt Museum Amsterdam immersive",
+    "file": "assets/34-nxt-museum.jpg",
+    "source": "https://nxtmuseum.com/exhibition/still-processing",
+    "source_title": "Nxt Museum Amsterdam immersive",
+    "url": "https://admin.nxtmuseum.com/content/uploads/2025/01/Balfua_The-Slollaleia_Nxt-Museum_Still-Processing_-foto-Maarten-Nauw.jpg",
+    "sha256": "7bc28a323792c9a4ad1b25ef333b8691f47b49524f06857c0c40943c8ed2c527",
+    "mime": "image/jpeg",
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 35,
+    "work": "Moco Museum Amsterdam Studio Irma digital immersive",
+    "file": "assets/35-moco-digital.jpg",
+    "source": "https://www.mocomuseum.com/artists/amsterdam/studio-irma-in-amsterdam/",
+    "source_title": "Moco Museum Amsterdam Studio Irma digital immersive",
+    "url": "https://www.mocomuseum.com/app/uploads/2025/04/Copy-of-Copy-of-2023_Moco_AMS_Evergreen_Studio-Irma_Diamond-Matrix-1-2996x1998-2996x1998-c-center.webp",
+    "sha256": "90abe4e38c5e422772bf46a327b3829a72fd492a2718472afd9be32053e4fdd9",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://www.mocomuseum.com/artists/amsterdam/studio-irma-in-amsterdam/",
+      "https://www.iamsterdam.com/en/whats-on/calendar/museums-and-galleries/museums/moco-museum"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 36,
+    "work": "Dalí Cybernetics IDEAL Barcelona",
+    "file": "assets/36-dali-cybernetics.jpg",
+    "source": "https://idealbarcelona.com/en/agenda/cybernetic-dali/",
+    "source_title": "Dalí Cybernetics IDEAL Barcelona",
+    "url": "https://idealbarcelona.com/wp-content/uploads/2022/05/DSC09847-2048x1368.jpg",
+    "sha256": "4791a926baeb80307c3883e9cda2cee968ea1dad658c627c8102646c53453291",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://idealbarcelona.com/en/agenda/cybernetic-dali/",
+      "https://www.salvador-dali.org/es/fundacion-dali/noticia/dali-cibernetico-en-el-ideal-barcelona/"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 37,
+    "work": "Van Gogh Alive The Lume Melbourne",
+    "file": "assets/37-van-gogh-alive.jpg",
+    "source": "https://www.timeout.com/melbourne/art/van-gogh",
+    "source_title": "Van Gogh Alive The Lume Melbourne",
+    "url": "https://media.timeout.com/images/106198342/1920/1080/image.webp",
+    "sha256": "9c4e991d6390d98b7097f8c2a71175a0e7e9216b542f984b3636a184612e392c",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://www.timeout.com/melbourne/art/van-gogh",
+      "https://www.thelume.com/"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 38,
+    "work": "AURA Invalides",
+    "file": "assets/38-aura-invalides.jpg",
+    "source": "https://aura-invalides.com/en_GB/",
+    "source_title": "AURA Invalides",
+    "url": "https://d20b489as5fsg0.cloudfront.net/media/image/ba/cc/9de427ca80bc686bfe93c7966329.jpg",
+    "sha256": "1ef5e3c42ffb79595d776d920082f70a510751079816369a9094bf065e77d000",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://aura-invalides.com/en_GB/",
+      "https://www.musee-armee.fr/en/your-visit/museum-spaces/the-dome-des-invalides.html"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 39,
+    "work": "teamLab Biovortex Kyoto",
+    "file": "assets/39-teamlab-biovortex-kyoto.jpg",
+    "source": "https://art.team-lab.cn/en/e/kyoto/",
+    "source_title": "teamLab Biovortex Kyoto",
+    "url": "https://image.team-lab.cn/unsafe/w:2048/q:80/plain/s3%3A%2F%2Fimagewave-sites-prd-imageproxy-bucket%2Fa85329c6-aef2-47d1-3de1-ce2b8bcf5200@webp",
+    "sha256": "523010157bac0566eadfd43512ad1b4a9c568d322a9cceb7b9f93857cea26cfd",
+    "mime": "image/jpeg",
+    "verification_sources": [
+      "https://art.team-lab.cn/en/e/kyoto/",
+      "https://www.teamlab.art/e/kyoto/"
+    ],
+    "quality_status": "verified-hd"
+  },
+  {
+    "index": 40,
+    "work": "Museum of the Future Dubai interior",
+    "file": "assets/40-museum-of-the-future.jpg",
+    "source": "https://museumofthefuture.ae/en/experience",
+    "source_title": "Museum of the Future Dubai interior",
+    "url": "https://motf-p-16570672ab7e.imgix.net/4ff564ad-2a4c-42e7-b3fa-ffb3dae9fd78/pasted-image.jpeg?auto=compress%2Cformat&fit=min&fm=jpg&q=88&w=2400",
+    "sha256": "977e1fe70a29b7ad1a5526d395b20afc4d39c04c9db539fb3fbd2eb16f56bafa",
+    "mime": "image/jpeg",
+    "quality_status": "verified-hd"
+  }
+]

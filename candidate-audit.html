@@ -1,0 +1,26 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>HD candidate audit</title>
+<style>
+  *{box-sizing:border-box}body{margin:0;background:#101010;color:#fff;font:13px Arial,sans-serif}
+  #grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px;padding:6px}
+  figure{height:250px;margin:0;position:relative;background:#222;overflow:hidden}img{width:100%;height:100%;object-fit:cover}
+  figcaption{position:absolute;inset:auto 0 0;background:#000d;padding:7px;font-variant-numeric:tabular-nums}
+</style>
+<div id="grid"></div>
+<script>
+const requested=Number(new URLSearchParams(location.search).get('index'));
+const targets=requested?[requested]:[6,8,14,15,18,21,22,23,24,25,28,29,30,31,35,36,37,38,39];
+const extensions=['jpg','png','webp','avif'];
+const grid=document.querySelector('#grid');
+for(const index of targets){for(let candidate=1;candidate<=12;candidate++){
+  const figure=document.createElement('figure');
+  const image=document.createElement('img');
+  const caption=document.createElement('figcaption');
+  let extensionIndex=0;
+  const load=()=>{image.src=`assets/hd-candidates/${String(index).padStart(2,'0')}-${candidate}.${extensions[extensionIndex]}`};
+  image.onload=()=>{caption.textContent=`${String(index).padStart(2,'0')}-${candidate} · ${image.naturalWidth}×${image.naturalHeight}`};
+  image.onerror=()=>{extensionIndex++;if(extensionIndex<extensions.length)load();else figure.remove()};
+  figure.append(image,caption);grid.append(figure);load();
+}}
+</script>
