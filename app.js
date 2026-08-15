@@ -153,7 +153,36 @@ const counter = document.getElementById('counter');
 const videoModal = document.getElementById('video-modal');
 const videoPlayer = document.getElementById('video-player');
 const videoClose = document.getElementById('video-close');
+const visitorCount = document.getElementById('visitor-count');
+const visitorCountValue = document.getElementById('visitor-count-value');
+const visitorStats = { site: 'ginomcclay28.github.io', path: '/immersive-museum-survey' };
 let lastVideoTrigger = null;
+
+async function loadVisitorCount() {
+  const apiBase = 'https://page-views-api.ratneshc.com/api/v1';
+  const params = new URLSearchParams(visitorStats);
+  const isLocalPreview = location.protocol === 'file:' || ['localhost', '127.0.0.1'].includes(location.hostname);
+
+  try {
+    if (!isLocalPreview) {
+      const trackResponse = await fetch(`${apiBase}/track?${params}`, { cache: 'no-store' });
+      if (!trackResponse.ok) throw new Error(`Counter tracking failed: ${trackResponse.status}`);
+    }
+
+    const response = await fetch(`${apiBase}/views?${params}`, { cache: 'no-store' });
+    if (!response.ok) throw new Error(`Counter loading failed: ${response.status}`);
+    const data = await response.json();
+    const views = Number(data.views);
+    if (!Number.isFinite(views)) throw new Error('Counter returned an invalid value');
+
+    visitorCountValue.textContent = new Intl.NumberFormat('en-US').format(views);
+    visitorCount.title = `${visitorCountValue.textContent} website views`;
+  } catch (error) {
+    visitorCountValue.textContent = '—';
+    visitorCount.classList.add('is-unavailable');
+    console.warn(error);
+  }
+}
 
 function openVideo(videoId, title, trigger) {
   lastVideoTrigger = trigger;
@@ -210,6 +239,7 @@ function render(index) {
   });
 
   counter.textContent = `${current + 1} / ${slides.length}`;
+  visitorCount.hidden = current !== 0;
   location.hash = current + 1;
   requestAnimationFrame(() => el.classList.add('is-changing'));
 }
@@ -252,3 +282,4 @@ document.getElementById('next').textContent = '\u2192';
 document.getElementById('next').setAttribute('aria-label', '\u0e2a\u0e44\u0e25\u0e14\u0e4c\u0e16\u0e31\u0e14\u0e44\u0e1b');
 document.getElementById('fullscreen').setAttribute('aria-label', '\u0e40\u0e15\u0e47\u0e21\u0e2b\u0e19\u0e49\u0e32\u0e08\u0e2d');
 render(current);
+loadVisitorCount();

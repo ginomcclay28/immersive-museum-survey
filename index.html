@@ -8,11 +8,15 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;500;600&family=Space+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=20260804-video-library-02">
+  <link rel="stylesheet" href="styles.css?v=20260815-visitor-counter-01">
 </head>
 <body>
   <main id="deck" aria-live="polite">
     <section class="slide" id="slide"></section>
+    <div id="visitor-count" class="visitor-count" aria-label="Website views" title="Website views" hidden>
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2.5 12s3.5-6 9.5-6 9.5 6 9.5 6-3.5 6-9.5 6-9.5-6-9.5-6Z"/><circle cx="12" cy="12" r="2.7"/></svg>
+      <span id="visitor-count-value">—</span>
+    </div>
     <div class="chrome">
       <button id="prev" class="nav-button" type="button" aria-label="สไลด์ก่อนหน้า">←</button>
       <div id="counter" class="counter">1 / 32</div>
@@ -31,6 +35,6 @@
       </div>
     </div>
   </div>
-  <script src="app.js?v=20260805-video-library-04"></script>
+  <script src="app.js?v=20260815-visitor-counter-01"></script>
 </body>
 </html>
